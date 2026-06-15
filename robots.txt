@@ -1,5 +1,5 @@
 # robots.txt – SmileBucharest Dental Tourism Romania
-# https://www.smilebucharest.com
+# https://dental.richiesolution.com
 
 User-agent: *
 Allow: /
@@ -9,7 +9,7 @@ Allow: /
 # Disallow: /private/
 
 # Sitemap location
-Sitemap: https://www.smilebucharest.com/sitemap.xml
+Sitemap: https://dental.richiesolution.com/sitemap.xml
 
 # Crawl-delay (optional – remove if you want faster crawling)
 # Crawl-delay: 1
